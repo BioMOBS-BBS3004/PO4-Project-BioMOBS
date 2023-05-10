@@ -27,8 +27,7 @@ npm run dev
 
 
 ## Assumptions
-- The data is from an ArangoDB database.
-- Objects in document collections have an `id` attribute which is a copy of the `_id`.
+- The data is read from an ArangoDB database.
 - Objects in edge collections have a `source` attribute which is a copy of `_from`, and a `target` which is a copy of `_to`.
 
 ## Approach
