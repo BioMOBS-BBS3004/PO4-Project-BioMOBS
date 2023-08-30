@@ -15,7 +15,7 @@ git clone https://github.com/driesheylen123/BioMOBS-topological-analyses.git
 ```
 4. Navigate to the cloned repository
 ```bash
-cd Documents\Biomobs_topological_analyses
+cd Documents\BioMOBS-topological-analyses
 ```
 5. Install all necessary dependencies. *Make sure [Node.js](https://nodejs.org) is installed on your device*
 ```bash
